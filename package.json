@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d public",
+    "sass": "node-sass -w scss/ -o public/css/ --recursive"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "homepage": "https://ajfojas.github.io/website-portfolio",
   "dependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.1.1",
+    "node-sass": "^4.13.0"
   }
 }
