@@ -9,6 +9,7 @@ const navItems = document.querySelectorAll('.nav-item');
 let showMenu = false;
 
 menuBtn.addEventListener('click', toggleMenu);
+menuBranding.addEventListener('click', toggleMenu);
 
 function toggleMenu() {
   if(!showMenu) {
@@ -32,3 +33,19 @@ function toggleMenu() {
 
   }
 }
+
+// jQuery Smooth Scroll
+$('.nav-item a').on('click', function(e) {
+  if(this.hash !== '') {
+    e.preventDefault();
+
+    const hash = this.hash;
+
+    $('html, body').animate(
+      {
+        scrollTop: $(hash).offset().top
+      },
+      800
+    );
+  }
+});
