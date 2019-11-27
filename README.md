@@ -1,2 +1,2 @@
-# website-portfolio
-Place to find all my info: LinkedIn, GitHub, resume, and portfolio included
+# Anthony Fojas's Online Portfolio
+Place to find all my info: [LinkedIn](https://www.linkedin.com/in/ajfojas/), [GitHub](https://github.com/ajfojas), [resume](https://bit.ly/2qQGCgf), and [portfolio](https://ajfojas.github.io/online-portfolio/) included
