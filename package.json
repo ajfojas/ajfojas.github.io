@@ -1,5 +1,5 @@
 {
-  "name": "website",
+  "name": "online-portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://ajfojas.github.io/website-portfolio",
+  "homepage": "https://ajfojas.github.io/online-portfolio",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0"
