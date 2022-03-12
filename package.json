@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://ajfojas.github.io/online-portfolio",
+  "homepage": "https://ajfojas.github.io",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0"
